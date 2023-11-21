@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RetrofitZemerova</string>
+
+    <string name="worldcinema">WorldCinema</string>
+    <string name="signin">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="cinemaposts">Cinema Posts</string>
+    <string name="txtcontinue">Continue</string>
+    <string name="emptyfields">The fields cannot be empty</string>
+    <string name="badrequest">Bad request</string>
+    <string name="erroroccurred">An error occurred</string>
+</resources>
